@@ -1,1 +1,1 @@
-# simp.js
+# wagmi.js

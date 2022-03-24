@@ -1,0 +1,22 @@
+{
+  "name": "wagmi.js",
+  "version": "69.69.69",
+  "description": "wagmi.js",
+  "main": "wagmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daounder/wagmi.js.git"
+  },
+  "keywords": [
+    "simp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daounder/wagmi.js/issues"
+  },
+  "homepage": "https://github.com/daounder/wagmi.js#readme"
+}
